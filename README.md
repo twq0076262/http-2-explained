@@ -1,6 +1,8 @@
 # http2 讲解
 
-《http2讲解》这篇文档会从技术和协议层面介绍HTTP/2协议，主要内容包括HTTP/2协议产生的背景、协议本身、实现和未来。原作者为[Daniel Stenberg](http://daniel.haxx.se/)。
+《http2讲解》这篇文档会从技术和协议层面介绍HTTP/2协议，主要内容包括HTTP/2协议产生的背景、协议本身、实现和未来。
+
+原作者为[Daniel Stenberg](http://daniel.haxx.se/)。
 
 
 > **致谢**  
